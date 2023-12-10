@@ -1,0 +1,5 @@
+package com.kn.hibernate;
+
+public class Student {
+
+}

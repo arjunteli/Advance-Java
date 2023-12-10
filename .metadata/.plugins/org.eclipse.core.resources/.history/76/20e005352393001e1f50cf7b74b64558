@@ -1,0 +1,5 @@
+package org.kodnest.Hibernate_3;
+
+public class Student {
+
+}
