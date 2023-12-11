@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Lenovo\eclipse-maven-workspace\Hibernate-5"/>
+			<item value="C:\Users\Lenovo\eclipse-maven-workspace\Hibernate-4"/>
 			<item value="C:\Users\Lenovo\eclipse-maven-workspace\Hibernate-3"/>
 			<item value="C:\Users\Lenovo\eclipse-maven-workspace\hibernate-1\src\main\java\org\kodnest\hibernate_demo1\App.java"/>
 		</list>
@@ -51,7 +53,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="Hibernate-4"/>
+			<item value="Hibernate-6"/>
+			<item value="Hibernate-5"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,5 +71,23 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="443"/>
+		<item key="y" value="0"/>
 	</section>
 </section>

@@ -4,12 +4,19 @@
     <fullyQualifiedTypeName name="jakarta.transaction.Transaction"/>
     <fullyQualifiedTypeName name="org.kodnest.Hibernate_2.Student"/>
     <fullyQualifiedTypeName name="org.kodnest.Hibernate_3.Student"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.OneToOne"/>
+    <fullyQualifiedTypeName name="com.kn.hibernate.Student"/>
+    <fullyQualifiedTypeName name="com.kn.hibernate.Bike"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="com.kn.hibernate.Product"/>
+    <fullyQualifiedTypeName name="com.kn.hibernate.Customer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
     <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
     <fullyQualifiedTypeName name="org.hibernate.Session"/>
     <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
-    <fullyQualifiedTypeName name="com.kn.hibernate.Student"/>
-    <fullyQualifiedTypeName name="com.kn.hibernate.Bike"/>
 </qualifiedTypeNameHistroy>
